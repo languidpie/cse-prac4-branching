@@ -1,0 +1,11 @@
+1. What branches exist in this project?
+answers, help, master
+
+2. What branch has been merged into master?
+a16d1b9 Merge branch 'index'
+
+3. How many commits (in total) does the repository have?
+16 commits
+
+4. What commits belong to branch package that don't belong to the branch master?
+8 commits
